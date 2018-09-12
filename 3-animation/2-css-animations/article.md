@@ -8,7 +8,7 @@ JavaScript can be used to control CSS animation and make them even better with a
 
 The idea of CSS transitions is simple. We describe a property and how its changes should be animated. When the property changes, the browser paints the animation.
 
-That is: all we need is to change the property. And the fluent transition is made by the browser.
+That's it: all we need is to change the property. And the fluent transition is made by the browser.
 
 For instance, the CSS below animates changes of `background-color` for 3 seconds:
 
